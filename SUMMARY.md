@@ -1,6 +1,6 @@
 # Table of contents
 
-- [The Code][chapter-intro]
+- [Code of the Norse Developer][chapter-intro]
 - [The Norse Nine Noble Virtues][chapter-virtues]
     - [Courage][chapter-courage]
     - [Discipline][chapter-discipline]
