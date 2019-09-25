@@ -31,9 +31,6 @@ The nine virtues according to the old norse culture are: [Courage][chapter-coura
 
 The content of this project itself is licensed under the [Attribution-ShareAlike 4.0 International \(CC BY-SA 4.0\)](https://creativecommons.org/licenses/by-sa/4.0/) license, and the underlying source code used to format and display that content is licensed under the [MIT](https://opensource.org/licenses/MIT) license. Please refer to the [LICENSE](license.md) file for more information.
 
-<a href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License" src="https://img.shields.io/badge/content%20license-CC%20BY--SA%204.0-a3be8c?style=flat-square&logoColor=eceff4&colorA=4c566a"></a>
-<a href="https://opensource.org/licenses/MIT"><img alt="MIT License" src="https://img.shields.io/badge/source%20code%20license-MIT-a3be8c?style=flat-square&logoColor=eceff4&colorA=4c566a"></a>
-
 
 [chapter-courage]: content/virtues/courage.md
 [chapter-discipline]: content/virtues/discipline.md
