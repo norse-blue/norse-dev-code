@@ -28,7 +28,11 @@ According to the old norse culture, the nine noble virtues according are: [Coura
 
 Sadly, I think we all have been witness of so many examples of an _unvirtuous_ exert of our profession at any and all professional levels. We face, on a daily basis, morally ambiguous decisions on how we approach our activities. We are tempted on each decision to take the easy way out, the most profitable approach for us even if it isn't good for our unknowing client. This code exists to be a guidance for us and help in our decisions.
 
-### License
+## Contributing
+
+Contributions to this project are accepted and encouraged. Please read the CONTRIBUTING.md file for details on contributions.
+
+## License
 
 The content of this project itself is licensed under the [Attribution-ShareAlike 4.0 International \(CC BY-SA 4.0\)](https://creativecommons.org/licenses/by-sa/4.0/) license, and the underlying source code used to format and display that content is licensed under the [MIT](https://opensource.org/licenses/MIT) license. Please refer to the [LICENSE](license.md) file for more information.
 
