@@ -11,6 +11,7 @@ description: >-
     <p align="center"> 
         <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License" src="https://img.shields.io/badge/content%20license-CC%20BY--SA%204.0-a3be8c?style=flat-square&logoColor=eceff4&colorA=4c566a"></a>
         <a href="https://opensource.org/licenses/MIT"><img alt="MIT License" src="https://img.shields.io/badge/source%20code%20license-MIT-a3be8c?style=flat-square&logoColor=eceff4&colorA=4c566a"></a>
+        <a href="https://norse.blue"><img alt="Norse Blue" src="https://img.shields.io/badge/sponsored%20by-Norse--Blue-4ca8cc?style=flat-square&logoColor=eceff4&colorA=4c566a"></a>
     </p>
 </div>
 <hr>
