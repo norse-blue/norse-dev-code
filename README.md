@@ -5,7 +5,7 @@ description: >-
   We built a developer code around them.
 ---
 
-# Norse Developer Code
+# Code of the Norse Developer
 
 <div align="center">
     <p align="center"> 
