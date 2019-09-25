@@ -63,7 +63,7 @@ such rights in consideration of benefits the Licensor receives from
 making the Licensed Material available under these terms and
 conditions.
 
-### <a id="1" />Section 1 -- Definitions.
+### <a id="1" />Section 1 - Definitions.
 
 1. <a id="1.1" />**Adapted Material** means material subject to Copyright and Similar
     Rights that is derived from or based upon the Licensed Material
@@ -134,7 +134,7 @@ conditions.
 13. <a id="1.13" />**You** means the individual or entity exercising the Licensed Rights
     under this Public License. **Your** has a corresponding meaning.
 
-### <a id="2" />Section 2 -- Scope.
+### <a id="2" />Section 2 - Scope.
 
 1. <a id="2.1" />**License grant**.
     1. <a id="2.1.i" />Subject to the terms and conditions of this Public License,
@@ -161,17 +161,17 @@ conditions.
         Technological Measures. For purposes of this Public License,
         simply making modifications authorized by this Section [2.1.iv][2.1.iv] never produces Adapted Material.
     5. <a id="2.1.v" />__Downstream recipients__.
-        1. <a id="2.1.v.a" />___Offer from the Licensor -- Licensed Material__. Every
+        1. <a id="2.1.v.a" />__Offer from the Licensor -- Licensed Material__. Every
             recipient of the Licensed Material automatically
             receives an offer from the Licensor to exercise the
             Licensed Rights under the terms and conditions of this
             Public License._
-        2. <a id="2.1.v.b" />___Additional offer from the Licensor -- Adapted Material__.
+        2. <a id="2.1.v.b" />__Additional offer from the Licensor -- Adapted Material__.
             Every recipient of Adapted Material from You
             automatically receives an offer from the Licensor to
             exercise the Licensed Rights in the Adapted Material
             under the conditions of the Adapter's License You apply._
-        3. <a id="2.1.v.c" />___No downstream restrictions__. You may not offer or impose
+        3. <a id="2.1.v.c" />__No downstream restrictions__. You may not offer or impose
             any additional or different terms or conditions on, or
             apply any Effective Technological Measures to, the
             Licensed Material if doing so restricts exercise of the
@@ -200,7 +200,7 @@ conditions.
         licensing scheme. In all other cases the Licensor expressly
         reserves any right to collect such royalties.
 
-### <a id="3" />Section 3 -- License Conditions.
+### <a id="3" />Section 3 - License Conditions.
 
 Your exercise of the Licensed Rights is expressly made subject to the
 following conditions.
@@ -250,7 +250,7 @@ following conditions.
         Measures to, Adapted Material that restrict exercise of the
         rights granted under the Adapter's License You apply.
 
-### <a id="4" />Section 4 -- Sui Generis Database Rights.
+### <a id="4" />Section 4 - Sui Generis Database Rights.
 
 Where the Licensed Rights include Sui Generis Database Rights that
 apply to Your use of the Licensed Material:
@@ -270,7 +270,7 @@ For the avoidance of doubt, this Section [4][section-4] supplements and does not
 replace Your obligations under this Public License where the Licensed
 Rights include other Copyright and Similar Rights.
 
-### <a id="5" />Section 5 -- Disclaimer of Warranties and Limitation of Liability.
+### <a id="5" />Section 5 - Disclaimer of Warranties and Limitation of Liability.
 
 1. <a id="5.1" />**UNLESS OTHERWISE SEPARATELY UNDERTAKEN BY THE LICENSOR, TO THE
     EXTENT POSSIBLE, THE LICENSOR OFFERS THE LICENSED MATERIAL AS-IS
@@ -296,7 +296,7 @@ Rights include other Copyright and Similar Rights.
      possible, most closely approximates an absolute disclaimer and
      waiver of all liability.
 
-### <a id="6" />Section 6 -- Term and Termination.
+### <a id="6" />Section 6 - Term and Termination.
 
 1. <a id="6.1" />This Public License applies for the term of the Copyright and
     Similar Rights licensed here. However, if You fail to comply with
@@ -318,7 +318,7 @@ Rights include other Copyright and Similar Rights.
 4. <a id="6.4" />Sections [1][section-1], [5][section-5], [6][section-6], [7][section-7], and [8][section-8] survive termination of this Public
      License.
 
-### <a id="7" />Section 7 -- Other Terms and Conditions.
+### <a id="7" />Section 7 - Other Terms and Conditions.
 
 1. <a id="7.1" />The Licensor shall not be bound by any additional or different
     terms or conditions communicated by You unless expressly agreed.
@@ -326,7 +326,7 @@ Rights include other Copyright and Similar Rights.
     Licensed Material not stated herein are separate from and
     independent of the terms and conditions of this Public License.
 
-### <a id="8" />Section 8 -- Interpretation.
+### <a id="8" />Section 8 - Interpretation.
 
 1. <a id="8.1" />For the avoidance of doubt, this Public License does not, and
     shall not be interpreted to, reduce, limit, restrict, or impose
