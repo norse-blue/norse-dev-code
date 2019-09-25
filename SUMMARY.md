@@ -11,6 +11,8 @@
     - [Perseverance][chapter-perseverance]
     - [Self-Reliance][chapter-self-reliance]
     - [Truth][chapter-truth]
+- [References][chapter-references]
+- [Contributions][chapter-contributions]
 - [License][chapter-license]
 
 
@@ -25,4 +27,6 @@
 [chapter-perseverance]: content/virtues/perseverance.md
 [chapter-self-reliance]: content/virtues/self-reliance.md
 [chapter-truth]: content/virtues/truth.md
+[chapter-contributions]: content/contributions.md
+[chapter-references]: content/references.md
 [chapter-license]: LICENSE.md
