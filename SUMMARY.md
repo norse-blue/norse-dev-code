@@ -16,17 +16,17 @@
 - [License][chapter-license]
 
 
-[chapter-intro]: README.md
-[chapter-virtues]: content/virtues.md
+[chapter-contributions]: content/contributions.md
 [chapter-courage]: content/virtues/courage.md
 [chapter-discipline]: content/virtues/discipline.md
 [chapter-fidelity]: content/virtues/fidelity.md
 [chapter-honor]: content/virtues/honor.md
 [chapter-hospitality]: content/virtues/hospitality.md
 [chapter-industriousness]: content/virtues/industriousness.md
+[chapter-intro]: README.md
+[chapter-license]: LICENSE.md
 [chapter-perseverance]: content/virtues/perseverance.md
+[chapter-references]: content/references.md
 [chapter-self-reliance]: content/virtues/self-reliance.md
 [chapter-truth]: content/virtues/truth.md
-[chapter-contributions]: content/contributions.md
-[chapter-references]: content/references.md
-[chapter-license]: LICENSE.md
+[chapter-virtues]: content/virtues.md
