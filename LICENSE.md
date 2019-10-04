@@ -4,7 +4,7 @@ The content of this project itself is licensed under the [Creative Commons Attri
 
 ## References
 
-Creative Commons: https://creativecommons.org/licenses/by-sa/4.0/
+Creative Commons: https://creativecommons.org/licenses/by-sa/4.0/  
 Open Source: https://opensource.org/licenses/MIT/
 
 
