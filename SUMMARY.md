@@ -14,8 +14,9 @@
 - [References][chapter-references]
 - [Contributions][chapter-contributions]
 - [License][chapter-license]
-    - [CC BY SA 4.0][lciense-cc-by-sa]
+    - [CC BY SA 4.0][license-cc-by-sa]
     - [MIT][license-mit]
+
 
 [chapter-contributions]: content/contributions.md
 [chapter-courage]: content/virtues/courage.md
@@ -31,3 +32,5 @@
 [chapter-self-reliance]: content/virtues/self-reliance.md
 [chapter-truth]: content/virtues/truth.md
 [chapter-virtues]: content/virtues.md
+[license-cc-by-sa]: license/CC-BY-SA.md
+[license-mit]: license/MIT.md
