@@ -14,7 +14,8 @@
 - [References][chapter-references]
 - [Contributions][chapter-contributions]
 - [License][chapter-license]
-
+    - [CC BY SA 4.0][lciense-cc-by-sa]
+    - [MIT][license-mit]
 
 [chapter-contributions]: content/contributions.md
 [chapter-courage]: content/virtues/courage.md
