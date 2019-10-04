@@ -30,14 +30,13 @@ Sadly, I think we all have been witness of so many examples of an _unvirtuous_ e
 
 ## Contributing
 
-Contributions to this project are accepted and encouraged. Please read the CONTRIBUTING.md file for details on contributions.
+Contributions to this project are accepted and encouraged. Please read the [CONTRIBUTING][contributing] file for details on contributions.
 
 ## License
 
-The content of this project itself is licensed under the [Attribution-ShareAlike 4.0 International \(CC BY-SA 4.0\)](https://creativecommons.org/licenses/by-sa/4.0/) license, and the underlying source code used to format and display that content is licensed under the [MIT](https://opensource.org/licenses/MIT) license. Please refer to the [LICENSE](license.md) file for more information.
+The content of this project itself is licensed under the [Attribution-ShareAlike 4.0 International \(CC BY-SA 4.0\)](https://creativecommons.org/licenses/by-sa/4.0/) license, and the underlying source code used to format and display that content is licensed under the [MIT](https://opensource.org/licenses/MIT) license. Please refer to the [LICENSE][license] file for more information.
 
 
-[chapter-virtues]: content/virtues.md
 [chapter-courage]: content/virtues/courage.md
 [chapter-discipline]: content/virtues/discipline.md
 [chapter-fidelity]: content/virtues/fidelity.md
@@ -47,3 +46,6 @@ The content of this project itself is licensed under the [Attribution-ShareAlike
 [chapter-perseverance]: content/virtues/perseverance.md
 [chapter-self-reliance]: content/virtues/self-reliance.md
 [chapter-truth]: content/virtues/truth.md
+[chapter-virtues]: content/virtues.md
+[contributing]: .github/CONTRIBUTING.md
+[license]: LICENSE.md
