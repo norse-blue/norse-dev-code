@@ -26,7 +26,7 @@ constraint our raw impulses and master our mind and soul to achieve self-control
 - [Heiðnibók - Norseman's Codex of Heathenism: The Nine Noble Virtues][ref-heidnibok]
 - [Internet Book of Shadows: Nine Noble Virtues (Norse)][ref-sacred-texts]
 - [The Nine Noble Virtues of Asatru][ref-learnreligions]
-- [The Nine Noble Virtues – Life Codes to Live by][ref-spanghelm]
+- [The Nine Noble Virtues – Life Codes to Live by][ref-spangenhelm]
 - [Víkingalǫg | NORSK®][ref-norskk]
 
 [ref-heidnibok]: http://heidnibok.blogspot.com/2013/04/the-nine-noble-virtues.html
