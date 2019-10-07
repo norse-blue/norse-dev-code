@@ -1,6 +1,6 @@
 # Discipline
 
-Old Norse: _[`hógværi`]([ref-definition]: http://ydalir.ca/norsedictionary/norsedictionaryh/)_
+Old Norse: _[`hógværi`][ref-old-norse]_
 
 ## Essence
 
