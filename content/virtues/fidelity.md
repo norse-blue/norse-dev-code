@@ -4,7 +4,7 @@ Old Norse: _[`einorð`][ref-old-norse]_
 
 ## Essence
 
-Being faithful to oneself, our beliefs and values and the community in which we exert our careers.
+Having _`fidelity`_ to oneself, our beliefs and values and the community in which we exert our careers.
 
 ## Substance
 
