@@ -1,6 +1,6 @@
 # Courage
 
-Old Norse: _`áræði`_
+Old Norse: _[`áræði`][ref-old-norse]_
 
 ## Essence
 
@@ -27,5 +27,6 @@ For a _norse developer_, having _`courage`_ means to stand up for one's beliefs 
 
 [chapter-intro]: ../../README.md
 [ref-learnreligions]: https://www.learnreligions.com/noble-virtues-of-asatru-2561539
+[ref-old-norse]: https://www.yorku.ca/inpar/language/English-Old_Norse.pdf
 [ref-sacred-texts]: https://www.sacred-texts.com/bos/bos653.htm
 [ref-spangenhelm]: https://spangenhelm.com/nine-noble-virtues/
