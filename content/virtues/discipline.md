@@ -19,7 +19,7 @@ To honor one's beliefs and values, one must be willing to exercise the self-disc
 ## Practice
 
 For a _Norse Developer_, discipline should allow us to honor our beliefs and values in spite of the context we find ourselves in our careers. Fostering discipline can contribute to our decision making in favor of _what's best for me and others_, as opposed to _what's best for me even if it damages others_ (which seems to be the motto in today's society). Discipline will allow us to 
-constraint our raw impulses and master our mind and soul to achieve self-control and help us follow the Code of the Norse Developer, staying true to the goals we have set for ourselves and our contribution to society.
+constraint our raw impulses and master our mind and soul to achieve self-control and help us follow the [Code of the Norse Developer][chapter-intro], staying true to the goals we have set for ourselves and our contribution to society.
 
 ## References
 
@@ -29,6 +29,7 @@ constraint our raw impulses and master our mind and soul to achieve self-control
 - [The Nine Noble Virtues – Life Codes to Live by][ref-spangenhelm]
 - [Víkingalǫg | NORSK®][ref-norskk]
 
+[chapter-intro]: ../../README.md
 [ref-heidnibok]: http://heidnibok.blogspot.com/2013/04/the-nine-noble-virtues.html
 [ref-learnreligions]: https://www.learnreligions.com/noble-virtues-of-asatru-2561539
 [ref-norskk]: https://norskk.com/code
