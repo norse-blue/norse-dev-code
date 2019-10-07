@@ -27,7 +27,7 @@ For a _Norse Developer_, having _`courage`_ means to stand up for one's beliefs 
 - [Heiðnibók - Norseman's Codex of Heathenism: The Nine Noble Virtues][ref-heidnibok]
 - [Internet Book of Shadows: Nine Noble Virtues (Norse)][ref-sacred-texts]
 - [The Nine Noble Virtues of Asatru][ref-learnreligions]
-- [The Nine Noble Virtues – Life Codes to Live by][ref-spanghelm]
+- [The Nine Noble Virtues – Life Codes to Live by][ref-spangenhelm]
 - [Víkingalǫg | NORSK®][ref-norskk]
 
 [chapter-intro]: ../../README.md
