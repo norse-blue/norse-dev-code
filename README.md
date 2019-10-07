@@ -16,9 +16,9 @@ description: >-
 </div>
 <hr>
 
-### What does it mean to be a _norse_ developer?
+### What does it mean to be a _Norse Developer_?
 
-Our concept of being a _norse_ developer has nothing to do with where we come from, but more importantly how we behave in our career.  We compiled this code to have a written set of norms to abide to on our jobs. Being a _norse_ developer is then following each and every one of the nine virtues applied to our careers.
+Our concept of being a _Norse Developer_ has nothing to do with where we come from, but more importantly how we behave in our career.  We compiled this code to have a written set of norms to abide to on our jobs. Being a _Norse Developer_ is then following each and every one of the nine virtues applied to our careers.
 
 ### What are the norse nine noble virtues?
 
