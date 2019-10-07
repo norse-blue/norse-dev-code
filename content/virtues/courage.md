@@ -19,4 +19,13 @@ battle.
 
 For a _norse developer_, having _`courage`_ means to stand up for one's beliefs and defend the values that we follow in the context of our careers (certainly aligned to those we follow in our life). It means that _`courage`_ has to lead our way and be our banner to remind us in every decision we make of the values we have embraced by following the [Code of the Norse Developer][chapter-intro].
 
+## References
+
+- [The Nine Noble Virtues – Life Codes to Live by][ref-spanghelm]
+- [Internet Book of Shadows: Nine Noble Virtues (Norse)][ref-sacred-texts]
+- [The Nine Noble Virtues of Asatru][ref-learnreligions]
+
 [chapter-intro]: ../../README.md
+[ref-learnreligions]: https://www.learnreligions.com/noble-virtues-of-asatru-2561539
+[ref-sacred-texts]: https://www.sacred-texts.com/bos/bos653.htm
+[ref-spangenhelm]: https://spangenhelm.com/nine-noble-virtues/
