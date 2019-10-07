@@ -17,7 +17,6 @@
     - [CC BY SA 4.0][license-cc-by-sa]
     - [MIT][license-mit]
 
-
 [chapter-contributions]: content/contributions.md
 [chapter-courage]: content/virtues/courage.md
 [chapter-discipline]: content/virtues/discipline.md

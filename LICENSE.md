@@ -7,6 +7,5 @@ The content of this project itself is licensed under the [Creative Commons Attri
 Creative Commons: https://creativecommons.org/licenses/by-sa/4.0/  
 Open Source: https://opensource.org/licenses/MIT/
 
-
 [license-cc-by-sa]: license/CC-BY-SA.md
 [license-mit]: license/MIT.md

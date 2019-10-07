@@ -2,7 +2,6 @@
 
 
 
-
 [chapter-courage]: content/virtues/courage.md
 [chapter-discipline]: content/virtues/discipline.md
 [chapter-fidelity]: content/virtues/fidelity.md
